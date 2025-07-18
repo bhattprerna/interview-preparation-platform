@@ -1,0 +1,6 @@
+{
+    "require": {
+        "smalot/pdfparser": "*",
+        "mpdf/mpdf": "^8.2"
+    }
+}
