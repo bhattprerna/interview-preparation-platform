@@ -35,7 +35,7 @@ Features include login system, resume builder, quiz practice, and progress track
 4. Open **phpMyAdmin**, create a new database (e.g., `interview_db`)
 5. **Import** the provided `database.sql` file into the new DB
 6. Start **Apache** and **MySQL** from XAMPP Control Panel
-7. Open your browser and go to: http://localhost/interview-preparation-platform
+7. Open your browser and go to: (http://localhost/Interview_prep_platform/login.php)
 
 ## 📸 Screenshots
 
