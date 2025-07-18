@@ -66,4 +66,5 @@ Features include login system, resume builder, quiz practice, and progress track
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
